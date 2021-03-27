@@ -1,5 +1,5 @@
 {
-  "name": "untitled1",
+  "name": "blogs",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -38,5 +38,10 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "description": "## Project setup ``` npm install ```",
+  "main": "babel.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
