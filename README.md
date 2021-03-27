@@ -1,4 +1,4 @@
-# untitled1
+# blogs
 
 ## Project setup
 ```
